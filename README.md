@@ -5,7 +5,7 @@ Use npm package manager
 
 ```npm install ```
 
-##Usage 
+## Usage 
 
 ```npm run dev ```
 
