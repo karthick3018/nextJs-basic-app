@@ -1,23 +1,15 @@
 {
-  "name": "nextjs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "imagemin-mozjpeg": "^8.0.0",
-    "moment": "^2.24.0",
-    "next": "^9.3.1",
-    "next-compose-plugins": "^2.2.0",
-    "next-optimized-images": "^2.5.5",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   }
 }
