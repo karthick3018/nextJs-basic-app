@@ -1,14 +1,7 @@
-import Link from 'next/link'
-
- const app = () => {
+export default function Home() {
   return (
-    <>
-      <p>Hey Next js!</p>
-      <Link href='/page1'>
-      <a>next pg</a>
-    </Link>
-    </>
+    <div className="container">
+      <p>Hi nextjs</p>
+    </div>
   )
 }
-
-export default app;
